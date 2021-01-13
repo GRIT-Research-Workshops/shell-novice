@@ -5,7 +5,7 @@
 shell-novice
 ============
 
-Hello !!! An introduction to the Unix shell for people who have never used the command line before.
+An introduction to the Unix shell for people who have never used the command line before.
 Please see <https://grit-research-workshops.github.io/shell-novice/> for a rendered version of this material,
 [the lesson template documentation][lesson-example]
 for instructions on formatting, building, and submitting material,
